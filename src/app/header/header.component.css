@@ -1,0 +1,16 @@
+.header1 {
+    background-color: rgb(36, 41, 46);
+}
+
+a {
+    font-size: 20px;
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
+
+.navbar-brand {
+    font-size: xx-large;
+}

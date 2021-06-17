@@ -1,0 +1,15 @@
+button {
+    margin: 2rem 1rem 0 0;
+}
+
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
+
+.centered {
+    position: absolute;
+    top: 35%;
+    left: 74%;
+    font-size: medium;
+    transform: translate(-50%, -50%);
+}
